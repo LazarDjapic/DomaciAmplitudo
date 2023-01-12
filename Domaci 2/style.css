@@ -1,0 +1,18 @@
+.odgledan {
+  background-color: #d1e7dd;
+}
+#filmovi-tabela {
+  background-color: #f8d7da;
+}
+/* Dodatni styling za tabelu */
+table {
+  margin-top: 20px;
+}
+th,
+td {
+  text-align: center;
+}
+
+#dodaj-film-dugme {
+  margin-left: 90%;
+}
